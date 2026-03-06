@@ -1,4 +1,5 @@
-# Daniel-s-Random-Stuff
+# Daniel's Random Stuff
+(DEFUNCT, FOR ARCHIVAL PURPOSES ONLY)
 Requires Frosty67's LuckyAPI Dev Fork and Effect Builder Plugin
 
 https://github.com/Fr0sty67/LuckyAPI/tree/dev
